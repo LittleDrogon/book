@@ -1,0 +1,118 @@
+{\rtf1\ansi\ansicpg936\deff0\deflang1033\deftab420{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}{\f1\froman\fcharset0 Times New Roman;}}
+{\*\generator Msftedit 5.41.15.1507;}\viewkind4\uc1\pard\nowidctlpar\li420\qj\lang2052\kerning2\f0\fs21\'b5\'da\'b6\'fe\'d5\'c2\lang1033\f1  \lang2052\f0\'b3\'f5\'bc\'b6\'ca\'b9\'d3\'c3\lang1033\f1\par
+\pard\nowidctlpar\fi420\qj\lang2052\f0\'b5\'da\'d2\'bb\'bd\'da\lang1033\f1  \lang2052\f0\fs20\'b1\'ea\'c7\'a9\'d3\'eb\'cc\'f8\'d7\'aa\'c3\'fc\'c1\'ee\'a3\'bagoto\'ba\'cdcall\lang1033\f1\fs21\par
+\lang2052\f0\'b5\'da\'b6\'fe\'bd\'da \fs20\'cc\'f5\'bc\'fe\'c5\'d0\'b6\'cf\'c3\'fc\'c1\'ee\'a3\'ba\lang1033\f1\fs21 If \lang2052\f0\par
+\'b5\'da\'c8\'fd\'bd\'da\lang1033\f1   \lang2052\f0\'c9\'e8\'d6\'c3\'c3\'fc\'c1\'ee\'a3\'ba\lang1033\f1 Set \lang2052\f0\par
+\'b5\'da\'cb\'c4\'bd\'da \'b3\'a3\'d3\'c3\'c5\'fa\'b4\'a6\'c0\'ed\'b1\'ea\'b5\'e3\'b7\'fb\'ba\'c5\par
+\par
+\'b5\'da\'c8\'fd\'bd\'da\lang1033\f1  \lang2052\f0\'b3\'a3\'d3\'c3\'c5\'fa\'b4\'a6\'c0\'ed\'b1\'ea\'b5\'e3\'b7\'fb\'ba\'c5\par
+\par
+\par
+\b\'b5\'da\'d2\'bb\'bd\'da  \'cc\'f8\'d7\'aa\'c3\'fc\'c1\'ee\'a3\'baGOTO\par
+\b0 1\'a1\'a2\'d3\'ef\'b7\'a8 \par
+\'d4\'da\'c5\'fa\'b4\'a6\'c0\'ed\'d6\'d0\'a3\'ac\'c3\'fc\'c1\'ee\'d0\'d0\'d2\'bb\'b0\'e3\'b6\'bc\'ca\'c7\'d7\'d4\'c9\'cf\'b6\'f8\'cf\'c2\'bd\'f8\'d0\'d0\'a3\'ac\'b5\'ab\'d3\'f6\'b5\'bdgoto\'ca\'b1\'a3\'ac\'c3\'fc\'c1\'ee\'bb\'e1\'cc\'f8\'d7\'aa\'b5\'bdgoto\'d6\'b8\'b6\'a8\'b5\'c4\'d0\'d0\'b2\'a2\'b4\'d3\'b8\'c3\'d0\'d0\'bf\'aa\'ca\'bc\'d6\'d8\'d0\'c2\'cd\'f9\'cf\'c2\'d6\'b4\'d0\'d0\'a1\'a3\par
+GOTO\'c3\'fc\'c1\'ee\'d4\'da\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'d6\'d0\'b0\'d1MS-DOS\'b6\'a8\'cf\'f2\'b5\'bd\'d3\'c9\'b1\'ea\'ba\'c5\'d6\'b8\'b6\'a8\'b5\'c4\'d2\'bb\'d0\'d0\'a1\'a3\'b5\'b1MS-DOS\'d5\'d2\'b5\'bd\'b4\'cb\'b1\'ea\'ba\'c5\'a3\'ac\'be\'cd\'b4\'d3\'cf\'c2\'d2\'bb\'d0\'d0\'bf\'aa\'ca\'bc\'d6\'b4\'d0\'d0\'c3\'fc\'c1\'ee\'a1\'a3\par
+\'d4\'da\'bd\'f8\'d0\'d0\'d6\'ae\'c7\'b0\'ca\'d7\'cf\'c8\'d2\'aa\'c1\'cb\'bd\'e2\'b1\'ea\'c7\'a9\'a3\'a8\'b1\'ea\'ba\'c5\'a3\'a9\'d3\'eb\'b4\'fa\'c2\'eb\'bf\'e9\'a1\'a3\'b1\'ea\'c7\'a9\'d2\'b2\'bd\'d0\'b1\'ea\'ba\'c5\'a3\'ac\'d3\'c3\'c0\'b4\'b1\'ea\'bc\'c7\'c6\'e4\'ba\'f3\'c3\'e6\'b5\'c4\'c8\'f4\'b8\'c9\'c3\'fc\'c1\'ee\'d0\'d0\'a3\'ac\'d2\'d4\'b1\'e3\'d3\'c3goto\'b5\'c8\'cc\'f8\'d7\'aa\'c3\'fc\'c1\'ee\'cc\'f8\'d7\'aa\'b5\'bd\'b4\'cb\'a1\'a3\'b4\'fa\'c2\'eb\'bf\'e9\'a3\'ac\'d6\'b8\'be\'df\'d3\'d0\'cf\'e0\'cd\'ac\'d2\'e2\'d2\'e5\'b5\'c4\'c8\'f4\'b8\'c9\'d0\'d0\'b4\'fa\'c2\'eb\'a3\'ac\'cd\'a8\'b3\'a3\'d3\'c3\'b1\'ea\'c7\'a9\'c0\'b4\'b1\'ea\'bc\'c7\'a1\'a3\'b1\'ea\'c7\'a9\'d3\'d0\'b5\'e3\'cf\'f1\'c5\'c6\'d7\'d3\'bb\'f2\'d5\'df\'c6\'ec\'d7\'d3\'a3\'ac\'d3\'c3\'c0\'b4\'b1\'ed\'ca\'be\'c4\'b3\'b8\'f6\'cd\'c5\'cc\'e5\'a3\'ac\'cd\'c5\'cc\'e5\'be\'cd\'ca\'c7\'b4\'fa\'c2\'eb\'bf\'e9\'a1\'a3\par
+\par
+GOTO label   \par
+label\'a3\'ac\'d6\'b8\'b6\'a8MS-DOS\'d3\'a6\'d7\'aa\'cf\'f2\'c4\'c4\'d2\'bb\'d0\'d0\'a1\'a3 \par
+\'c8\'e7\'a3\'ba\par
+\par
+@echo off\par
+echo     1\'a1\'a2\'ce\'d2\par
+goto a\par
+Rem \'b6\'a8\'ce\'bb(\'cc\'f8\'d7\'aa)\'b5\'bd\'b1\'ea\'c7\'a9\'a3\'a8\'b1\'ea\'ba\'c5\'a3\'a9\'ce\'aa\ldblquote a\rdblquote\'cb\'f9\'d4\'da\'b5\'c4\'d0\'d0\'a1\'a3\par
+rem \'b5\'da\'d2\'bb\'b4\'ce\'cc\'f8\'d7\'aa\'a3\'ba\'c5\'fa\'b4\'a6\'c0\'ed\'b4\'d3\'d5\'e2\'c0\'ef\'cc\'f8\'b9\'fd\'c1\'cb\'cf\'c2\'c3\'e6\'b1\'ea\'c7\'a9\'ce\'aa\ldblquote b\rdblquote\'b5\'c4\'bc\'b8\'d0\'d0\'b4\'fa\'c2\'eb\'a3\'ac\'b6\'f8\'d6\'b1\'bd\'d3\'b4\'d3\ldblquote a\rdblquote\'cb\'f9\'d4\'da\'b5\'c4\'d0\'d0\'bf\'aa\'ca\'bc\'d6\'b4\'d0\'d0\'a1\'a3\par
+\par
+:b\par
+rem \'b6\'a8\'d2\'e5\'a3\'a8\'c9\'e8\'d6\'c3\'a3\'a9\'b1\'ea\'c7\'a9\'a3\'a8\'b1\'ea\'ba\'c5\'a3\'a9\ldblquote b\rdblquote\'a1\'a3\'d2\'d4\'cf\'c2\'bc\'b8\'d0\'d0\'ca\'c7\'b5\'da\'b6\'fe\'b8\'f6\'b4\'fa\'c2\'eb\'bf\'e9\'a1\'a3\par
+echo     3\'a1\'a2\'c5\'fa\'b4\'a6\'c0\'ed\par
+pause\par
+exit\par
+rem \'d4\'dd\'cd\'a3\'ba\'cd\'cd\'cb\'b3\'f6\'a1\'a3\par
+rem \'b4\'fa\'c2\'eb\'d7\'ee\'ba\'f3\'cd\'a3\'c1\'f4\'d3\'da\'b4\'cb\'a1\'a3\par
+\par
+:a\par
+rem \'b6\'a8\'d2\'e5\'a3\'a8\'c9\'e8\'d6\'c3\'a3\'a9\'b1\'ea\'c7\'a9\'a3\'a8\'b1\'ea\'ba\'c5\'a3\'a9\ldblquote a\rdblquote\'a1\'a3\'d2\'d4\'cf\'c2\'bc\'b8\'d0\'d0\'ca\'c7\'b5\'da\'d2\'bb\'b8\'f6\'b4\'fa\'c2\'eb\'bf\'e9\'a1\'a3\par
+echo     2\'a1\'a2\'b0\'ae\par
+goto b\par
+rem \'cc\'f8\'d7\'aa\'b5\'bd\'b1\'ea\'c7\'a9\ldblquote b\rdblquote\'cb\'f9\'d4\'da\'b5\'c4\'d0\'d0\'a1\'a3\par
+rem \'b5\'da\'b6\'fe\'b4\'ce\'cc\'f8\'d7\'aa\'a3\'ba\'c5\'fa\'b4\'a6\'c0\'ed\'d6\'b4\'d0\'d0\'b5\'bd\'d5\'e2\'c0\'ef\'ba\'f3\'cc\'f8\'d7\'aa\'bb\'d8\'d6\'d0\'bc\'e4\'b5\'c4\ldblquote b\rdblquote\'cb\'f9\'d4\'da\'b5\'c4\'b4\'fa\'c2\'eb\'d0\'d0\'a1\'a3\par
+\par
+\'bc\'d9\'c8\'e7\'b0\'d1\'b1\'ea\'c7\'a9a\'cb\'f9\'d4\'da\'b5\'c4\'b4\'fa\'c2\'eb\'bf\'e9\'ba\'cd\'b1\'ea\'c7\'a9b\'cb\'f9\'d4\'da\'b5\'c4\'b4\'fa\'c2\'eb\'bf\'e9\'bb\'a5\'bb\'bb\'ce\'bb\'d6\'c3\'a3\'ac\'cb\'fc\'c3\'c7\'b5\'c4\'d4\'cb\'d0\'d0\'bd\'e1\'b9\'fb\'ca\'c7\'d2\'bb\'d6\'c2\'b5\'c4\'a1\'a3\'c8\'e7\'a3\'ba\par
+@echo off\par
+echo     1\'a1\'a2\'ce\'d2\par
+:a\par
+echo     2\'a1\'a2\'b0\'ae\par
+:b\par
+echo     3\'a1\'a2\'c5\'fa\'b4\'a6\'c0\'ed\par
+pause\par
+exit\par
+\par
+2\'a1\'a2\'b1\'ea\'c7\'a9\'a3\'a8\'b1\'ea\'ba\'c5\'a3\'a9\'b5\'c4\'ba\'cf\'b7\'a8\'d6\'b5 \par
+1\'a3\'a9\'b1\'ea\'ba\'c5\'b2\'ce\'ca\'fd\'b2\'bb\'d3\'a6\'b0\'fc\'ba\'ac\'bf\'d5\'b8\'f1\'a1\'a2\'b7\'d6\'ba\'c5\'ba\'cd\'b5\'c8\'ba\'c5\'d6\'ae\'c0\'e0\'b5\'c4\'b7\'d6\'b8\'f4\'b7\'fb\'a1\'a3\par
+2\'a3\'a9GOTO\'c3\'fc\'c1\'ee\'d6\'bb\'ca\'b6\'b1\'f0\'b1\'ea\'ba\'c5\'b5\'c4\'c7\'b08\'b8\'f6\'d7\'d6\'b7\'fb\'a1\'a3\'d2\'f2\'b4\'cb\'a3\'ac\'b1\'ea\'ba\'c5\ldblquote hithere01\rdblquote\'ba\'cd\ldblquote hithere02\rdblquote\'b6\'bc\'b5\'c8\'bc\'db\'d3\'da\ldblquote hithere0\rdblquote\'a1\'a3 \par
+3\'a3\'a9\'c6\'a5\'c5\'e4\'b1\'ea\'ba\'c5\'b2\'ce\'ca\'fd\'ba\'cd\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'d6\'d0\'b5\'c4\'b1\'ea\'ba\'c5 \par
+\'d4\'daGOTO\'c3\'fc\'c1\'ee\'d0\'d0\'d6\'d0\'d6\'b8\'b6\'a8\'b5\'c4\'b1\'ea\'ba\'c5\'b1\'d8\'d0\'eb\'d3\'eb\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'d6\'d0\'b5\'c4\'c4\'b3\'b8\'f6\'b1\'ea\'ba\'c5\'cf\'e0\'c6\'a5\'c5\'e4\'a1\'a3\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'b5\'c4\'b1\'ea\'ba\'c5\'b1\'d8\'d0\'eb\'d2\'d4\'c3\'b0\'ba\'c5\'b4\'f2\'cd\'b7\'a1\'a3 \par
+\'c8\'f4\'d6\'b8\'b6\'a8\'b5\'c4\'b1\'ea\'ba\'c5\'ce\'b4\'b0\'fc\'ba\'ac\'d4\'da\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'d6\'d0\'a3\'ac\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'bd\'ab\'b1\'bb\'d6\'d0\'d6\'b9\'a3\'acMS-DOS\'cf\'d4\'ca\'be\'cf\'c2\'c1\'d0\'d0\'c5\'cf\'a2\'a3\'ba \par
+Label not found \par
+MS-DOS\'c8\'cf\'ce\'aa\'d2\'d4\'c3\'b0\'ba\'c5\'b4\'f2\'cd\'b7\'b5\'c4\'d2\'bb\'d0\'d0\'ca\'c7\'b1\'ea\'ba\'c5\'a3\'ac\'b6\'f8\'b2\'bb\'ca\'c7\'c3\'fc\'c1\'ee\'a3\'ac\'b2\'a2\'ba\'f6\'c2\'d4\'b4\'cb\'d0\'d0\'b5\'c4\'cb\'f9\'d3\'d0\'c3\'fc\'c1\'ee\'a1\'a3\par
+\'bf\'c9\'d2\'d4\'c0\'fb\'d3\'c3\'d5\'e2\'d2\'bb\'cc\'d8\'d0\'d4\'a3\'ac\'b0\'d1\'cb\'fc\'b5\'b1\'d7\'f6\'d7\'a2\'ca\'cd\'a3\'ac\'cc\'e6\'b4\'farem\'a1\'a3\'b2\'ce\'bf\'bc\'c5\'fa\'b4\'a6\'c0\'ed\'b5\'c4\'cd\'b7\'b2\'bf\'b5\'c8\'c4\'da\'c8\'dd\'a1\'a3\par
+4\'a3\'a9\'d2\'bb\'b8\'f6\'cc\'d8\'ca\'e2\'b5\'c4\'cc\'f8\'d7\'aa\'b1\'ea\'c7\'a9\'a3\'bagoto :eof\par
+goto :eof\'b5\'c4\'d2\'e2\'cb\'bc\'ca\'c7\'cd\'cb\'b3\'f6\'b1\'ea\'c7\'a9\'bf\'e9\'a3\'ac\'b7\'b5\'bb\'d8call\'c3\'fc\'c1\'ee\'d6\'b8\'b6\'a8\'b5\'c4\'d0\'d0\'a3\'ac\'bb\'f2\'bd\'e1\'ca\'f8\'c5\'fa\'b4\'a6\'c0\'ed\'a1\'a3\par
+\par
+3\'a1\'a2\'d4\'cb\'d3\'c3\par
+\'cb\'c0\'d1\'ad\'bb\'b7\par
+@echo off\par
+:loop\par
+echo \'ce\'d2\'b0\'ae\'c5\'fa\'b4\'a6\'c0\'ed\par
+echo     \'ce\'d2\'b0\'ae\'b1\'b1\'be\'a9\'cc\'ec\'b0\'b2\'c3\'c5\par
+goto loop    \par
+\par
+\'d4\'da\'b5\'da\'d2\'bb\'d0\'d0\'c9\'e8\'d6\'c3\'b1\'ea\'c7\'a9loop\'a3\'ac\'d4\'da\'d7\'ee\'ba\'f3\'d2\'bb\'d0\'d0\'c9\'e8\'d6\'c3\'cc\'f8\'d7\'aa\'a3\'ac\'b6\'a8\'ce\'bb\'b5\'bd\'b1\'ea\'c7\'a9loop\'a1\'a3\par
+\'c5\'fa\'b4\'a6\'c0\'ed\'d7\'d4\'c9\'cf\'b6\'f8\'cf\'c2\'d6\'b4\'d0\'d0\'a3\'ac\'d3\'f6\'b5\'bdgoto loop\'ca\'b1\'b7\'b5\'bb\'d8\'b5\'da\'d2\'bb\'d0\'d0\'d6\'b4\'d0\'d0\'a1\'a3\'d6\'d8\'d0\'c2\'b4\'d3\'b5\'da\'d2\'bb\'d0\'d0\'bf\'aa\'ca\'bc\'cd\'f9\'cf\'c2\'d6\'b4\'d0\'d0\'a3\'ac\'d3\'f6\'b5\'bdgoto loop\'ca\'b1\'d3\'d6\'b7\'b5\'bb\'d8\'b5\'da\'d2\'bb\'d0\'d0\'a1\'ad\'a1\'ad\'b2\'bb\'cd\'a3\'b5\'c4\'d1\'ad\'bb\'b7\'d6\'d8\'b8\'b4\'cf\'c2\'c8\'a5\'a1\'a3\par
+\par
+4\'a1\'a2\'d2\'e2\'d2\'e5\par
+goto\'bf\'c9\'d2\'d4\'cb\'e6\'d2\'e2\'cc\'f8\'b5\'bd\'d6\'b8\'b6\'a8\'b1\'ea\'c7\'a9\'a3\'ac\'b4\'f2\'c2\'d2\'c5\'fa\'b4\'a6\'c0\'ed\'d7\'d4\'c9\'cf\'b6\'f8\'cf\'c2\'b5\'c4\'d4\'cb\'d0\'d0\'c4\'a3\'ca\'bd\'a1\'a3\par
+\'b4\'fa\'c2\'eb\'bf\'e9\'b5\'c4\'b6\'c0\'c1\'a2\'ba\'cd\'b1\'ea\'c7\'a9\'b5\'c4\'c9\'e8\'d6\'c3\'a3\'ac\'d2\'e2\'ce\'b6\'d7\'c5\'bf\'c9\'d2\'d4\'d6\'d8\'b8\'b4\'cc\'f8\'d7\'aa\'b5\'bd\'c4\'b3\'d0\'a9\'b1\'ea\'c7\'a9\'a1\'a3\par
+\'b5\'b1goto\'b7\'b4\'b8\'b4\'b5\'d8\'cc\'f8\'d7\'aa\'b5\'bd\'c4\'b3\'b8\'f6\'b1\'ea\'c7\'a9\'ca\'b1\'a3\'ac\'be\'cd\'bb\'e1\'d4\'ec\'b3\'c9\'d2\'bb\'b8\'f6\'cb\'c0\'d1\'ad\'bb\'b7\'a1\'a3\par
+goto\'b5\'c4\'cc\'d8\'d0\'d4\'a3\'ba\'d3\'ebcall\'b1\'c8\'bd\'cf\'a3\'ac\'cb\'fc\'cc\'f8\'d7\'aa\'b5\'bd\'c4\'b3\'b8\'f6\'b1\'ea\'c7\'a9\'ba\'f3\'b2\'bb\'bb\'e1\'d7\'d4\'b6\'af\'b7\'b5\'bb\'d8goto\'c6\'f0\'cc\'f8\'ca\'b1\'cb\'f9\'d4\'da\'b5\'c4\'d0\'d0\'a3\'ac\'b6\'f8call\'bf\'c9\'d2\'d4\'d4\'dagoto :eof\'b0\'ef\'d6\'fa\'cf\'c2\'b7\'b5\'bb\'d8\'a1\'a3\par
+\par
+\par
+\b\'b5\'da\'b6\'fe\'bd\'da  \'cc\'f5\'bc\'fe\'c5\'d0\'b6\'cf\'c3\'fc\'c1\'ee\'a3\'baIF\par
+\b0\'c5\'fa\'b4\'a6\'c0\'ed\'b3\'cc\'d0\'f2\'d6\'d0\'b5\'c4\'cc\'f5\'bc\'fe\'c5\'d0\'b6\'cf\'d3\'ef\'be\'e4\'a1\'a3\'c8\'f4IF\'c3\'fc\'c1\'ee\'d6\'b8\'b6\'a8\'b5\'c4\'cc\'f5\'bc\'fe\'ce\'aa\'d5\'e6\'a3\'ac\'d4\'f2MS-DOS\'d6\'b4\'d0\'d0\'cc\'f5\'bc\'fe\'cf\'c2\'c3\'e6\'b5\'c4\'c3\'fc\'c1\'ee\'a3\'bb\'b7\'f1\'d4\'f2\'a3\'acMS-DOS\'ba\'f6\'c2\'d4\'b4\'cb\'c3\'fc\'c1\'ee\'a1\'a3\'b4\'cb\'c3\'fc\'c1\'ee\'d6\'bb\'c4\'dc\'d4\'da\'c5\'fa\'b4\'a6\'c0\'ed\'b3\'cc\'d0\'f2\'d6\'d0\'ca\'b9\'d3\'c3\'a1\'a3 \par
+\par
+\'d3\'ef\'b7\'a8 \'a3\'ba \par
+\par
+IF [NOT] ERRORLEVEL number command \par
+\par
+IF [NOT] string1==string2 command \par
+\par
+IF [NOT] EXIST filename command \par
+ \par
+\par
+ \par
+\par
+\par
+\'b2\'ce\'ca\'fd\'a3\'ba \par
+\par
+NOT \par
+\'d6\'b8\'b3\'f6\'c8\'f4\'cc\'f5\'bc\'fe\'ce\'aa\'bc\'d9\'ca\'b1\'a3\'acMS-DOS\'d3\'a6\'b8\'c3\'d6\'b4\'d0\'d0\'ba\'f3\'c3\'e6\'b5\'c4\'c3\'fc\'c1\'ee\'a1\'a3 \par
+\par
+ERRORLEVEL number \par
+\'b5\'b1\'c9\'cf\'d2\'bb\'b8\'f6\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b7\'b5\'bb\'d8\'b5\'c4\'cd\'cb\'b3\'f6\'c2\'eb\'b4\'f3\'d3\'da\'b5\'c8\'d3\'danumber\'d5\'e2\'b8\'f6\'ca\'fd\'ca\'b1\'cc\'f5\'bc\'fe\'ce\'aa\'d5\'e6\'a1\'a3 \par
+\par
+command \par
+\'d6\'b8\'b6\'a8\'cc\'f5\'bc\'fe\'ce\'aa\'d5\'e6\'ca\'b1\'a3\'acMS-DOS\'bd\'ab\'d6\'b4\'d0\'d0\'b5\'c4\'c3\'fc\'c1\'ee\'a1\'a3 \par
+\par
+string1==string2 \par
+\'bd\'f6\'b5\'b1string1\'ba\'cd string2\'cf\'e0\'cd\'ac\'ca\'b1\'cc\'f5\'bc\'fe\'ce\'aa\'d5\'e6\'a1\'a3\'d5\'e2\'c1\'bd\'b8\'f6\'d6\'b5\'bf\'c9\'d2\'d4\'ca\'c7\'d7\'d6\'b7\'fb\'b4\'ae\'bb\'f2\'c5\'fa\'b4\'a6\'c0\'ed\'b1\'e4\'c1\'bf\'a3\'a8\'c0\'fd\'c8\'e7%1\'a3\'a9\'a1\'a3\'d7\'d6\'b7\'fb\'b4\'ae\'b2\'bb\'d0\'e8\'d3\'c3\'d2\'fd\'ba\'c5\'c0\'a8\'c6\'f0\'c0\'b4\'a1\'a3 \par
+\par
+EXIST filename \par
+\'b5\'b1filename\'d5\'e2\'b8\'f6\'ce\'c4\'bc\'fe\'b4\'e6\'d4\'da\'ca\'b1\'cc\'f5\'bc\'fe\'ce\'aa\'d5\'e6\'a1\'a3\par
+\par
+\'cf\'c2\'c3\'e6\'d5\'e2\'b8\'f6\'c0\'fd\'d7\'d3\'d3\'c3\'c0\'b4\'b2\'e2\'ca\'d4\'c4\'bf\'c2\'bc\'ca\'c7\'b7\'f1\'b4\'e6\'d4\'da\'a1\'a3IF\'c3\'fc\'c1\'ee\'b2\'bb\'c4\'dc\'d6\'b1\'bd\'d3\'d3\'c3\'c0\'b4\'b2\'e2\'ca\'d4\'c4\'bf\'c2\'bc\'a3\'ac\'b5\'ab\'bf\'d5\'a3\'a8NUL\'a3\'a9\'c9\'e8\'b1\'b8\'b4\'e6\'d4\'da\'d3\'da\'d3\'b2\'c5\'cc\'b5\'c4\'c3\'bf\'d2\'bb\'b8\'f6\'c4\'bf\'c2\'bc\'cf\'c2\'a1\'a3\'d2\'f2\'b4\'cb\'a3\'ac\'bf\'c9\'d2\'d4\'cd\'a8\'b9\'fd\'bf\'d5\'c9\'e8\'b1\'b8\'c0\'b4\'b2\'e2\'ca\'d4\'d3\'b2\'c5\'cc\'c4\'bf\'c2\'bc\'ca\'c7\'b7\'f1\'b4\'e6\'d4\'da\'a1\'a3 \par
+\par
+if exist c:\\mydir\\nul goto process \par
+}
+ 
